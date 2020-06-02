@@ -1,0 +1,4 @@
+#edges : 285
+density : 4.5094936708860756
+Maximal cost : 62624
+Execution time is 2148594.841 ms

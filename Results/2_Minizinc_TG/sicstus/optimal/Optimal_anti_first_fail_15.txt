@@ -1,0 +1,11 @@
+S = [6, 2, 3, 8, 4, 10, 7, 15, 9, 13, 11, 12, 5, 14, 1]
+P = [15, 2, 3, 5, 13, 1, 7, 4, 9, 6, 11, 12, 10, 14, 8]
+cost = 6727
+% runtime:      156 ms
+% solvetime:    72 ms
+% solutions:    1
+% constraints:  158
+% backtracks:   40
+% prunings:     1166
+itinerary = [1,6,10,13,5,4,8,15]
+opt = true
