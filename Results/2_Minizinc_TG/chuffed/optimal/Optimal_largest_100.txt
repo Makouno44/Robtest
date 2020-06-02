@@ -1,0 +1,46 @@
+% Generated FlatZinc statistics:
+%%%mzn-stat: paths=0
+%%%mzn-stat: flatBoolVars=398
+%%%mzn-stat: flatIntVars=797
+%%%mzn-stat: flatBoolConstraints=199
+%%%mzn-stat: flatIntConstraints=903
+%%%mzn-stat: evaluatedReifiedConstraints=496
+%%%mzn-stat: evaluatedHalfReifiedConstraints=1
+%%%mzn-stat: method="minimize"
+%%%mzn-stat: flatTime=10.2052
+%%%mzn-stat-end
+
+% Pruned 49995 learnt clauses
+% Pruned 49994 learnt clauses
+% Pruned 49975 learnt clauses
+% Pruned 49993 learnt clauses
+% Pruned 49990 learnt clauses
+% Pruned 49985 learnt clauses
+% Pruned 49979 learnt clauses
+% Pruned 49994 learnt clauses
+%%%mzn-stat: nodes=496858
+%%%mzn-stat: failures=490903
+%%%mzn-stat: restarts=32
+%%%mzn-stat: variables=665114
+%%%mzn-stat: intVars=897
+%%%mzn-stat: boolVariables=664215
+%%%mzn-stat: propagators=1203
+%%%mzn-stat: propagations=672566778
+%%%mzn-stat: peakDepth=46
+%%%mzn-stat: nogoods=490903
+%%%mzn-stat: backjumps=4583
+%%%mzn-stat: peakMem=0.00
+%%%mzn-stat: time=300.750
+%%%mzn-stat: initTime=0.750
+%%%mzn-stat: solveTime=300.000
+%%%mzn-stat: objective=-55857
+%%%mzn-stat: optTime=285.026
+%%%mzn-stat: baseMem=0.00
+%%%mzn-stat: trailMem=4.75
+%%%mzn-stat: randomSeed=1585931417
+S = [49, 2, 31, 15, 5, 92, 59, 8, 33, 73, 16, 30, 84, 14, 17, 24, 82, 10, 28, 77, 21, 60, 86, 96, 54, 7, 18, 100, 29, 13, 55, 78, 91, 83, 35, 19, 71, 38, 81, 23, 93, 89, 34, 20, 27, 46, 32, 66, 22, 50, 75, 37, 41, 9, 98, 64, 61, 53, 36, 25, 69, 43, 87, 70, 62, 58, 80, 26, 68, 74, 39, 72, 40, 63, 95, 76, 48, 42, 56, 90, 57, 45, 97, 52, 4, 51, 67, 88, 12, 6, 85, 11, 47, 94, 3, 65, 44, 79, 99, 1]
+P = [100, 2, 95, 85, 5, 90, 26, 8, 54, 18, 92, 89, 30, 14, 4, 11, 15, 27, 36, 44, 21, 49, 40, 16, 60, 68, 45, 19, 29, 12, 3, 47, 9, 43, 35, 59, 52, 38, 71, 73, 53, 78, 62, 97, 82, 46, 93, 77, 1, 50, 86, 84, 58, 25, 31, 79, 81, 66, 7, 22, 57, 65, 74, 56, 96, 48, 87, 69, 61, 64, 37, 72, 10, 70, 51, 76, 20, 32, 98, 67, 39, 17, 34, 13, 91, 23, 63, 88, 42, 80, 33, 6, 41, 94, 75, 24, 83, 55, 99, 28]
+cost = 55857
+% Time limit exceeded!
+itinerary = [1,49,22,60,25,54,9,33,91,85,4,15,17,82,45,27,18,10,73,40,23,86,51,75,95,3,31,55,98,79,56,64,70,74,63,87,67,80,90,6,92,11,16,24,96,65,62,43,34,83,97,44,20,77,48,66,58,53,41,93,47,32,78,42,89,12,30,13,84,52,37,71,39,81,57,61,69,68,26,7,59,36,19,28,100]
+opt = false

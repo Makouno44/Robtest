@@ -1,0 +1,46 @@
+% Generated FlatZinc statistics:
+%%%mzn-stat: paths=0
+%%%mzn-stat: flatBoolVars=238
+%%%mzn-stat: flatIntVars=477
+%%%mzn-stat: flatBoolConstraints=119
+%%%mzn-stat: flatIntConstraints=543
+%%%mzn-stat: evaluatedReifiedConstraints=296
+%%%mzn-stat: evaluatedHalfReifiedConstraints=1
+%%%mzn-stat: method="minimize"
+%%%mzn-stat: flatTime=1.34167
+%%%mzn-stat-end
+
+% Pruned 49997 learnt clauses
+% Pruned 49995 learnt clauses
+% Pruned 49999 learnt clauses
+% Pruned 49996 learnt clauses
+% Pruned 49998 learnt clauses
+% Pruned 49999 learnt clauses
+% Pruned 49998 learnt clauses
+% Pruned 49998 learnt clauses
+%%%mzn-stat: nodes=471114
+%%%mzn-stat: failures=454842
+%%%mzn-stat: restarts=59
+%%%mzn-stat: variables=338206
+%%%mzn-stat: intVars=537
+%%%mzn-stat: boolVariables=337667
+%%%mzn-stat: propagators=723
+%%%mzn-stat: propagations=471464187
+%%%mzn-stat: peakDepth=49
+%%%mzn-stat: nogoods=454842
+%%%mzn-stat: backjumps=14001
+%%%mzn-stat: peakMem=0.00
+%%%mzn-stat: time=300.488
+%%%mzn-stat: initTime=0.487
+%%%mzn-stat: solveTime=300.001
+%%%mzn-stat: objective=-35579
+%%%mzn-stat: optTime=185.885
+%%%mzn-stat: baseMem=0.00
+%%%mzn-stat: trailMem=3.16
+%%%mzn-stat: randomSeed=1588259341
+S = [48, 46, 14, 42, 6, 33, 29, 41, 9, 55, 58, 10, 59, 18, 43, 13, 5, 38, 19, 53, 21, 22, 35, 39, 11, 52, 2, 24, 50, 37, 7, 32, 60, 25, 56, 31, 15, 4, 54, 40, 26, 27, 36, 44, 45, 12, 30, 20, 17, 8, 51, 23, 57, 47, 34, 49, 16, 28, 3, 1]
+P = [60, 27, 59, 38, 17, 5, 31, 50, 9, 12, 25, 46, 16, 3, 37, 57, 49, 14, 19, 48, 21, 22, 52, 28, 34, 41, 42, 58, 7, 47, 36, 32, 6, 55, 23, 43, 30, 18, 24, 40, 8, 4, 15, 44, 45, 2, 54, 1, 56, 29, 51, 26, 20, 39, 10, 35, 53, 11, 13, 33]
+cost = 35579
+% Time limit exceeded!
+itinerary = [1,48,20,53,57,16,13,59,3,14,18,38,4,42,27,2,46,12,10,55,34,25,11,58,28,24,39,54,47,30,37,15,43,36,31,7,29,50,8,41,26,52,23,35,56,49,17,5,6,33,60]
+opt = false

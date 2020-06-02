@@ -1,0 +1,37 @@
+% Generated FlatZinc statistics:
+%%%mzn-stat: paths=0
+%%%mzn-stat: flatBoolVars=158
+%%%mzn-stat: flatIntVars=317
+%%%mzn-stat: flatBoolConstraints=79
+%%%mzn-stat: flatIntConstraints=363
+%%%mzn-stat: evaluatedReifiedConstraints=196
+%%%mzn-stat: evaluatedHalfReifiedConstraints=1
+%%%mzn-stat: method="minimize"
+%%%mzn-stat: flatTime=56.1148
+%%%mzn-stat-end
+
+%%%mzn-stat: nodes=6745
+%%%mzn-stat: failures=5970
+%%%mzn-stat: restarts=14
+%%%mzn-stat: variables=163409
+%%%mzn-stat: intVars=357
+%%%mzn-stat: boolVariables=163050
+%%%mzn-stat: propagators=483
+%%%mzn-stat: propagations=3599052
+%%%mzn-stat: peakDepth=32
+%%%mzn-stat: nogoods=5970
+%%%mzn-stat: backjumps=370
+%%%mzn-stat: peakMem=0.00
+%%%mzn-stat: time=2.569
+%%%mzn-stat: initTime=0.247
+%%%mzn-stat: solveTime=2.322
+%%%mzn-stat: objective=-23393
+%%%mzn-stat: optTime=0.236
+%%%mzn-stat: baseMem=0.00
+%%%mzn-stat: trailMem=1.41
+%%%mzn-stat: randomSeed=1585841116
+S = [20, 2, 28, 24, 4, 38, 19, 7, 9, 33, 34, 8, 13, 14, 11, 16, 17, 36, 29, 12, 21, 27, 32, 23, 3, 5, 31, 37, 6, 30, 15, 10, 25, 26, 35, 40, 18, 22, 39, 1]
+P = [40, 2, 25, 5, 26, 29, 8, 12, 9, 32, 15, 20, 13, 14, 31, 16, 17, 37, 7, 1, 21, 38, 24, 4, 33, 34, 22, 3, 19, 30, 27, 23, 10, 11, 35, 18, 28, 6, 39, 36]
+cost = 23393
+itinerary = [1,20,12,8,7,19,29,6,38,22,27,31,15,11,34,26,5,4,24,23,32,10,33,25,3,28,37,18,36,40]
+opt = true

@@ -1,0 +1,48 @@
+% Generated FlatZinc statistics:
+%%%mzn-stat: paths=0
+%%%mzn-stat: flatBoolVars=358
+%%%mzn-stat: flatIntVars=717
+%%%mzn-stat: flatBoolConstraints=179
+%%%mzn-stat: flatIntConstraints=813
+%%%mzn-stat: evaluatedReifiedConstraints=446
+%%%mzn-stat: evaluatedHalfReifiedConstraints=1
+%%%mzn-stat: method="minimize"
+%%%mzn-stat: flatTime=11.8733
+%%%mzn-stat-end
+
+% Pruned 49988 learnt clauses
+% Pruned 49984 learnt clauses
+% Pruned 49982 learnt clauses
+% Pruned 49979 learnt clauses
+% Pruned 49978 learnt clauses
+% Pruned 49994 learnt clauses
+% Pruned 49991 learnt clauses
+% Pruned 49992 learnt clauses
+% Pruned 49990 learnt clauses
+% Pruned 49990 learnt clauses
+%%%mzn-stat: nodes=579067
+%%%mzn-stat: failures=570224
+%%%mzn-stat: restarts=8
+%%%mzn-stat: variables=538635
+%%%mzn-stat: intVars=807
+%%%mzn-stat: boolVariables=537826
+%%%mzn-stat: propagators=1083
+%%%mzn-stat: propagations=637504684
+%%%mzn-stat: peakDepth=43
+%%%mzn-stat: nogoods=570224
+%%%mzn-stat: backjumps=8544
+%%%mzn-stat: peakMem=0.00
+%%%mzn-stat: time=300.628
+%%%mzn-stat: initTime=0.628
+%%%mzn-stat: solveTime=300.000
+%%%mzn-stat: objective=-50608
+%%%mzn-stat: optTime=206.439
+%%%mzn-stat: baseMem=0.00
+%%%mzn-stat: trailMem=4.75
+%%%mzn-stat: randomSeed=1585929768
+S = [49, 2, 86, 85, 5, 6, 65, 8, 52, 73, 16, 9, 67, 14, 18, 24, 15, 51, 88, 44, 21, 32, 40, 76, 47, 68, 45, 28, 17, 71, 3, 78, 84, 48, 35, 19, 60, 38, 81, 79, 77, 89, 34, 11, 82, 46, 30, 66, 22, 50, 75, 37, 41, 33, 55, 64, 61, 53, 7, 25, 69, 43, 87, 70, 62, 58, 63, 36, 54, 74, 39, 72, 4, 59, 23, 90, 20, 42, 56, 26, 57, 29, 83, 13, 27, 10, 80, 31, 12, 1]
+P = [90, 2, 31, 73, 5, 6, 59, 8, 12, 86, 44, 89, 84, 14, 17, 11, 29, 15, 36, 77, 21, 49, 75, 16, 60, 80, 85, 28, 82, 47, 88, 22, 54, 43, 35, 68, 52, 38, 71, 23, 53, 78, 62, 20, 27, 46, 25, 34, 1, 50, 18, 9, 58, 69, 55, 79, 81, 66, 74, 37, 57, 65, 67, 56, 7, 48, 13, 26, 61, 64, 30, 72, 10, 70, 51, 24, 41, 32, 40, 87, 39, 45, 83, 33, 4, 3, 63, 19, 42, 76]
+cost = 50608
+% Time limit exceeded!
+itinerary = [1,49,22,32,78,42,89,12,9,52,37,60,25,47,30,71,39,81,57,61,69,54,33,84,13,67,63,87,80,26,68,36,19,88,31,3,86,10,73,4,85,27,45,82,29,17,15,18,51,75,23,40,79,56,64,70,74,59,7,65,62,43,34,48,66,58,53,41,77,20,44,11,16,24,76,90]
+opt = false

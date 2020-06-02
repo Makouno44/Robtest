@@ -1,0 +1,45 @@
+% Generated FlatZinc statistics:
+%%%mzn-stat: paths=0
+%%%mzn-stat: flatBoolVars=318
+%%%mzn-stat: flatIntVars=637
+%%%mzn-stat: flatBoolConstraints=159
+%%%mzn-stat: flatIntConstraints=723
+%%%mzn-stat: evaluatedReifiedConstraints=396
+%%%mzn-stat: evaluatedHalfReifiedConstraints=1
+%%%mzn-stat: method="minimize"
+%%%mzn-stat: flatTime=10.1791
+%%%mzn-stat-end
+
+% Pruned 49985 learnt clauses
+% Pruned 49982 learnt clauses
+% Pruned 49978 learnt clauses
+% Pruned 49994 learnt clauses
+% Pruned 49993 learnt clauses
+% Pruned 49993 learnt clauses
+% Pruned 49986 learnt clauses
+%%%mzn-stat: nodes=439937
+%%%mzn-stat: failures=409416
+%%%mzn-stat: restarts=24
+%%%mzn-stat: variables=441253
+%%%mzn-stat: intVars=717
+%%%mzn-stat: boolVariables=440534
+%%%mzn-stat: propagators=963
+%%%mzn-stat: propagations=555708469
+%%%mzn-stat: peakDepth=48
+%%%mzn-stat: nogoods=409416
+%%%mzn-stat: backjumps=29525
+%%%mzn-stat: peakMem=0.00
+%%%mzn-stat: time=300.531
+%%%mzn-stat: initTime=0.531
+%%%mzn-stat: solveTime=300.000
+%%%mzn-stat: objective=-38796
+%%%mzn-stat: optTime=274.328
+%%%mzn-stat: baseMem=0.00
+%%%mzn-stat: trailMem=3.16
+%%%mzn-stat: randomSeed=1585931416
+S = [49, 2, 31, 15, 5, 6, 59, 8, 33, 10, 16, 30, 67, 14, 18, 24, 17, 40, 19, 11, 21, 32, 23, 76, 54, 80, 73, 28, 29, 13, 55, 47, 45, 62, 35, 69, 60, 38, 71, 51, 77, 12, 7, 44, 27, 46, 78, 34, 22, 50, 75, 37, 20, 9, 64, 56, 39, 53, 68, 25, 57, 43, 63, 70, 66, 58, 79, 26, 65, 74, 52, 72, 4, 36, 3, 41, 48, 42, 61, 1]
+P = [80, 2, 75, 73, 5, 6, 43, 8, 54, 10, 20, 42, 30, 14, 4, 11, 17, 15, 19, 53, 21, 49, 23, 16, 60, 68, 45, 28, 29, 12, 3, 22, 9, 48, 35, 74, 52, 38, 57, 18, 76, 78, 62, 44, 33, 46, 32, 77, 1, 50, 40, 71, 58, 25, 31, 56, 61, 66, 7, 37, 79, 34, 63, 55, 69, 65, 13, 59, 36, 64, 39, 72, 27, 70, 51, 24, 41, 47, 67, 26]
+cost = 38796
+% Time limit exceeded!
+itinerary = [1,49,22,32,47,78,42,12,30,13,67,79,61,57,39,71,52,37,60,25,54,9,33,45,27,73,4,15,18,40,51,75,3,31,55,64,70,74,36,69,65,66,58,53,20,11,16,24,76,41,77,48,34,62,43,7,59,68,26,80]
+opt = false

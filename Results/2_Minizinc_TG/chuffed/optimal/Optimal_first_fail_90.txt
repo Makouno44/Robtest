@@ -1,0 +1,47 @@
+% Generated FlatZinc statistics:
+%%%mzn-stat: paths=0
+%%%mzn-stat: flatBoolVars=358
+%%%mzn-stat: flatIntVars=717
+%%%mzn-stat: flatBoolConstraints=179
+%%%mzn-stat: flatIntConstraints=813
+%%%mzn-stat: evaluatedReifiedConstraints=446
+%%%mzn-stat: evaluatedHalfReifiedConstraints=1
+%%%mzn-stat: method="minimize"
+%%%mzn-stat: flatTime=7.5337
+%%%mzn-stat-end
+
+% Pruned 49987 learnt clauses
+% Pruned 49984 learnt clauses
+% Pruned 49990 learnt clauses
+% Pruned 49987 learnt clauses
+% Pruned 49990 learnt clauses
+% Pruned 49987 learnt clauses
+% Pruned 49983 learnt clauses
+% Pruned 49982 learnt clauses
+% Pruned 49980 learnt clauses
+%%%mzn-stat: nodes=556308
+%%%mzn-stat: failures=530384
+%%%mzn-stat: restarts=79
+%%%mzn-stat: variables=540982
+%%%mzn-stat: intVars=807
+%%%mzn-stat: boolVariables=540173
+%%%mzn-stat: propagators=1083
+%%%mzn-stat: propagations=764491827
+%%%mzn-stat: peakDepth=70
+%%%mzn-stat: nogoods=530384
+%%%mzn-stat: backjumps=21135
+%%%mzn-stat: peakMem=0.00
+%%%mzn-stat: time=300.666
+%%%mzn-stat: initTime=0.666
+%%%mzn-stat: solveTime=300.000
+%%%mzn-stat: objective=-47374
+%%%mzn-stat: optTime=111.124
+%%%mzn-stat: baseMem=0.00
+%%%mzn-stat: trailMem=4.75
+%%%mzn-stat: randomSeed=1585930093
+S = [49, 2, 86, 85, 5, 90, 43, 8, 33, 73, 16, 9, 67, 14, 4, 6, 37, 10, 19, 20, 21, 32, 75, 76, 30, 7, 45, 28, 17, 42, 31, 47, 84, 83, 35, 69, 52, 38, 61, 23, 53, 89, 62, 44, 82, 46, 78, 34, 60, 50, 18, 54, 58, 25, 55, 79, 81, 66, 36, 22, 57, 65, 74, 56, 24, 48, 80, 26, 68, 64, 39, 72, 15, 70, 3, 41, 77, 12, 40, 87, 59, 29, 11, 13, 27, 51, 63, 88, 71, 1]
+P = [90, 2, 75, 15, 5, 16, 26, 8, 12, 18, 83, 78, 84, 14, 73, 11, 29, 51, 19, 20, 21, 60, 40, 65, 54, 68, 85, 28, 82, 25, 31, 22, 9, 48, 35, 59, 17, 38, 71, 79, 76, 30, 7, 44, 27, 46, 32, 66, 1, 50, 86, 37, 41, 52, 55, 64, 61, 53, 81, 49, 39, 43, 87, 70, 62, 58, 13, 69, 36, 74, 89, 72, 10, 63, 23, 24, 77, 47, 56, 67, 57, 45, 34, 33, 4, 3, 80, 88, 42, 6]
+cost = 47374
+% Time limit exceeded!
+itinerary = [1,49,60,22,32,47,78,12,9,33,84,13,67,80,87,63,74,70,64,56,79,40,23,75,3,86,51,18,10,73,15,4,85,27,45,82,29,17,37,52,54,25,30,42,89,71,39,61,57,81,59,36,69,68,26,7,43,62,65,24,76,41,53,58,66,48,34,83,11,16,6,90]
+opt = false

@@ -1,0 +1,47 @@
+% Generated FlatZinc statistics:
+%%%mzn-stat: paths=0
+%%%mzn-stat: flatBoolVars=398
+%%%mzn-stat: flatIntVars=797
+%%%mzn-stat: flatBoolConstraints=199
+%%%mzn-stat: flatIntConstraints=903
+%%%mzn-stat: evaluatedReifiedConstraints=496
+%%%mzn-stat: evaluatedHalfReifiedConstraints=1
+%%%mzn-stat: method="minimize"
+%%%mzn-stat: flatTime=7.7147
+%%%mzn-stat-end
+
+% Pruned 49993 learnt clauses
+% Pruned 49992 learnt clauses
+% Pruned 49989 learnt clauses
+% Pruned 49987 learnt clauses
+% Pruned 49982 learnt clauses
+% Pruned 49984 learnt clauses
+% Pruned 49983 learnt clauses
+% Pruned 49988 learnt clauses
+% Pruned 49986 learnt clauses
+%%%mzn-stat: nodes=523259
+%%%mzn-stat: failures=507371
+%%%mzn-stat: restarts=26
+%%%mzn-stat: variables=663601
+%%%mzn-stat: intVars=897
+%%%mzn-stat: boolVariables=662702
+%%%mzn-stat: propagators=1203
+%%%mzn-stat: propagations=719579084
+%%%mzn-stat: peakDepth=49
+%%%mzn-stat: nogoods=507371
+%%%mzn-stat: backjumps=14660
+%%%mzn-stat: peakMem=0.00
+%%%mzn-stat: time=300.691
+%%%mzn-stat: initTime=0.690
+%%%mzn-stat: solveTime=300.001
+%%%mzn-stat: objective=-54192
+%%%mzn-stat: optTime=28.434
+%%%mzn-stat: baseMem=0.00
+%%%mzn-stat: trailMem=4.75
+%%%mzn-stat: randomSeed=1585932074
+S = [49, 2, 31, 15, 5, 92, 59, 8, 33, 73, 16, 30, 84, 14, 17, 24, 82, 10, 28, 77, 21, 60, 75, 96, 54, 7, 91, 100, 29, 67, 55, 78, 27, 83, 35, 19, 71, 38, 81, 86, 93, 89, 34, 20, 47, 46, 32, 66, 22, 50, 18, 37, 41, 9, 98, 56, 61, 53, 36, 25, 79, 43, 87, 70, 62, 58, 80, 26, 68, 74, 39, 72, 40, 63, 95, 76, 48, 42, 51, 90, 57, 45, 97, 52, 4, 23, 69, 88, 12, 6, 85, 11, 13, 94, 3, 65, 44, 64, 99, 1]
+P = [100, 2, 95, 85, 5, 90, 26, 8, 54, 18, 92, 89, 93, 14, 4, 11, 15, 51, 36, 44, 21, 49, 86, 16, 60, 68, 33, 19, 29, 12, 3, 47, 9, 43, 35, 59, 52, 38, 71, 73, 53, 78, 62, 97, 82, 46, 45, 77, 1, 50, 79, 84, 58, 25, 31, 56, 81, 66, 7, 22, 57, 65, 74, 98, 96, 48, 30, 69, 87, 64, 37, 72, 10, 70, 23, 76, 20, 32, 61, 67, 39, 17, 34, 13, 91, 40, 63, 88, 42, 80, 27, 6, 41, 94, 75, 24, 83, 55, 99, 28]
+cost = 54192
+% Time limit exceeded!
+itinerary = [1,49,22,60,25,54,9,33,27,91,85,4,15,17,82,45,47,32,78,42,89,12,30,67,80,90,6,92,11,16,24,96,65,62,43,34,83,97,44,20,77,48,66,58,53,41,93,13,84,52,37,71,39,81,57,61,79,51,18,10,73,40,86,23,75,95,3,31,55,98,64,70,74,63,87,69,68,26,7,59,36,19,28,100]
+opt = false
