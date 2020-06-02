@@ -1,0 +1,9 @@
+=====UNKNOWN=====
+% time out!
+% runtime:      300534 ms
+% solvetime:    300068 ms
+% solutions:    0
+% constraints:  908
+% backtracks:   247343
+% prunings:     135704352
+opt = false
