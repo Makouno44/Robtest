@@ -1,0 +1,48 @@
+% Generated FlatZinc statistics:
+%%%mzn-stat: paths=0
+%%%mzn-stat: flatBoolVars=358
+%%%mzn-stat: flatIntVars=717
+%%%mzn-stat: flatBoolConstraints=179
+%%%mzn-stat: flatIntConstraints=813
+%%%mzn-stat: evaluatedReifiedConstraints=446
+%%%mzn-stat: evaluatedHalfReifiedConstraints=1
+%%%mzn-stat: method="minimize"
+%%%mzn-stat: flatTime=8.30563
+%%%mzn-stat-end
+
+% Pruned 49994 learnt clauses
+% Pruned 49993 learnt clauses
+% Pruned 49992 learnt clauses
+% Pruned 49991 learnt clauses
+% Pruned 49990 learnt clauses
+% Pruned 49989 learnt clauses
+% Pruned 49985 learnt clauses
+% Pruned 49984 learnt clauses
+% Pruned 49980 learnt clauses
+% Pruned 49998 learnt clauses
+%%%mzn-stat: nodes=584306
+%%%mzn-stat: failures=578608
+%%%mzn-stat: restarts=26
+%%%mzn-stat: variables=535149
+%%%mzn-stat: intVars=807
+%%%mzn-stat: boolVariables=534340
+%%%mzn-stat: propagators=1083
+%%%mzn-stat: propagations=567116556
+%%%mzn-stat: peakDepth=45
+%%%mzn-stat: nogoods=578608
+%%%mzn-stat: backjumps=4674
+%%%mzn-stat: peakMem=0.00
+%%%mzn-stat: time=300.659
+%%%mzn-stat: initTime=0.658
+%%%mzn-stat: solveTime=300.001
+%%%mzn-stat: objective=-50186
+%%%mzn-stat: optTime=110.673
+%%%mzn-stat: baseMem=0.00
+%%%mzn-stat: trailMem=4.75
+%%%mzn-stat: randomSeed=1585931744
+S = [49, 2, 86, 85, 5, 90, 65, 8, 12, 73, 16, 78, 67, 14, 18, 6, 15, 51, 88, 44, 21, 60, 40, 76, 25, 68, 45, 28, 17, 71, 3, 32, 84, 43, 35, 19, 52, 38, 81, 79, 77, 89, 62, 11, 82, 46, 30, 66, 22, 50, 75, 9, 20, 33, 55, 64, 61, 53, 7, 37, 69, 24, 87, 70, 34, 58, 63, 36, 54, 74, 39, 72, 4, 59, 23, 41, 48, 42, 56, 26, 57, 29, 83, 13, 27, 10, 80, 31, 47, 1]
+P = [90, 2, 31, 73, 5, 16, 59, 8, 52, 86, 44, 9, 84, 14, 17, 11, 29, 15, 36, 53, 21, 49, 75, 62, 25, 80, 85, 28, 82, 47, 88, 32, 54, 65, 35, 68, 60, 38, 71, 23, 76, 78, 34, 20, 27, 46, 89, 77, 1, 50, 18, 37, 58, 69, 55, 79, 81, 66, 74, 22, 57, 43, 67, 56, 7, 48, 13, 26, 61, 64, 30, 72, 10, 70, 51, 24, 41, 12, 40, 87, 39, 45, 83, 33, 4, 3, 63, 19, 42, 6]
+cost = 50186
+% Time limit exceeded!
+itinerary = [1,49,22,60,37,52,9,12,78,42,89,47,30,71,39,81,57,61,69,54,33,84,13,67,63,87,80,26,68,36,19,88,31,3,86,10,73,4,85,27,45,82,29,17,15,18,51,75,23,40,79,56,64,70,74,59,7,65,34,43,62,24,76,41,77,48,66,58,53,20,44,11,16,6,90]
+opt = false
