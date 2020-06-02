@@ -1,0 +1,28 @@
+% Generated FlatZinc statistics:
+%%%mzn-stat: paths=0
+%%%mzn-stat: flatBoolVars=78
+%%%mzn-stat: flatIntVars=139
+%%%mzn-stat: flatBoolConstraints=39
+%%%mzn-stat: flatIntConstraints=165
+%%%mzn-stat: evaluatedReifiedConstraints=19
+%%%mzn-stat: evaluatedHalfReifiedConstraints=59
+%%%mzn-stat: method="minimize"
+%%%mzn-stat: flatTime=59.4156
+%%%mzn-stat-end
+
+S = [14, 10, 3, 5, 13, 9, 8, 15, 7, 17, 20, 11, 6, 2, 12, 4, 19, 18, 16, 1]
+P = [20, 14, 3, 16, 4, 13, 9, 7, 6, 2, 12, 15, 5, 1, 8, 19, 10, 18, 17, 11]
+cost = 16656
+%%%mzn-stat: initTime=0.006872
+%%%mzn-stat: solveTime=0.026457
+%%%mzn-stat: solutions=4
+%%%mzn-stat: variables=239
+%%%mzn-stat: propagators=163
+%%%mzn-stat: propagations=90867
+%%%mzn-stat: nodes=692
+%%%mzn-stat: failures=341
+%%%mzn-stat: restarts=0
+%%%mzn-stat: peakDepth=17
+%%%mzn-stat-end
+itinerary = [1,14,2,10,17,19,16,4,5,13,6,9,7,8,15,12,11,20]
+opt = true
